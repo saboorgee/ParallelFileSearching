@@ -1,0 +1,9 @@
+D:\Thesis Projects\ParallelFileSearchingChanged\ParallelFileSearching\bin\Debug\ParallelFileSearching.exe
+D:\Thesis Projects\ParallelFileSearchingChanged\ParallelFileSearching\bin\Debug\ParallelFileSearching.pdb
+D:\Thesis Projects\ParallelFileSearchingChanged\ParallelFileSearching\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Thesis Projects\ParallelFileSearchingChanged\ParallelFileSearching\obj\x86\Debug\ParallelFileSearching.Form1.resources
+D:\Thesis Projects\ParallelFileSearchingChanged\ParallelFileSearching\obj\x86\Debug\ParallelFileSearching.Properties.Resources.resources
+D:\Thesis Projects\ParallelFileSearchingChanged\ParallelFileSearching\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Thesis Projects\ParallelFileSearchingChanged\ParallelFileSearching\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Thesis Projects\ParallelFileSearchingChanged\ParallelFileSearching\obj\x86\Debug\ParallelFileSearching.exe
+D:\Thesis Projects\ParallelFileSearchingChanged\ParallelFileSearching\obj\x86\Debug\ParallelFileSearching.pdb
